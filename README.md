@@ -23,7 +23,7 @@ java programa.ConversorFahrACelsius 32 68 95
 
 Esto debe imprimir:
 
-```json
+```
 32 F son 0 ºC
 68 F son 20 ºC
 95 F spm 35 ºC
@@ -49,6 +49,12 @@ El entity es un objeto que representa una temperatura.
 6. Completar el diagrama de clases.
 7. Completar el diagrama de secuencia.
 8. ¿Cómo crearíamos un programa que pase de Celsius a Fahr?
+
+## Comentarios
+
+Este archivo es de formato markdown. Si mirás los diagramas, no son imágenes estáticas sino que usan un formato de texto basado en markdown llamado mermaid. Más abajo se incluye documentación.
+
+Completa los diagramas de clase utilizando este formato.
 
 ## Diagrama de Clases
 

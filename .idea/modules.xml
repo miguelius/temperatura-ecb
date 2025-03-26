@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ventas.iml" filepath="$PROJECT_DIR$/ventas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temperatura-ecb.iml" filepath="$PROJECT_DIR$/temperatura-ecb.iml" />
     </modules>
   </component>
 </project>
